@@ -1,3 +1,9 @@
 Esta es un ejercicio de pruebas 
 para crear un nuevo repositorio en Git
 Hecho por Fairelys Lopez
+
+Ya hice el primer commit
+
+Me enrede mucho el comando git rm --cached 
+
+luego veo jajaja...Sigo 
